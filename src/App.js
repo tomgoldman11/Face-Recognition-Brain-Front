@@ -10,9 +10,9 @@ import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm';
 import Rank from './components/Rank/Rank';
 import './App.css';
 
-//You must add your own API key here from Clarifai.
+// add clarifi api key for face recognition.
 const app = new Clarifai.App({
- apiKey: 'YOUR_API_HERE'
+ apiKey: '3282c4ce6a164b39a01c52257037c2b9'
 });
 
 const particlesOptions = {
