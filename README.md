@@ -1,2 +1,4 @@
 # SmartBrain 
-Final project Website as part of web development course on Udemy.
+Front-End of the Website using React as part of web development course on Udemy.
+
+Here are the pages of the client side:
